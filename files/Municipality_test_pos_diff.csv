@@ -1,4 +1,4 @@
-Kommune_(id),Kommune_(navn),Antal_bekræftede_COVID-19,Kumulativ_incidens_(per_100000),Antal_bekræftede_COVID-19_stigning,Kumulativ_incidens_(per_100000)_stigning
+Kommune_(id),Kommune_(navn),Antal_bekræftede_COVID-19,Kumulativ_incidens_(per_100000),Antal_bekræftede_COVID-19_14dage_stigning,Kumulativ_incidens_(per_100000)_14dage_stigning
 101,København,2807,444,118,19
 147,Frederiksberg,487,467,16,15
 151,Ballerup,235,484,7,15
